@@ -24,31 +24,30 @@ Write a compelling narrative about your background, education, and what drives y
 ### Education
 
 - **Strategic Management BS**, Brigham Young University (2026)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Relevant Coursework**: STRAT 402: Economics of Strategy | STRAT 411: Advanced Competitive Strategy | STRAT 412: Strategy Analytics | ECON 382: Intermediate Microeconomics | IS 515: Advanced Spreadsheets for Business Analysis | STRAT 490R: Creating Digital Products with AI - Strategy and Prototyping
+- **Academic Achievements**: Strategy Society - VP of Events
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Merchandising Intern - Walmart Inc.
+*Jun '25 - Aug '25*
 
 - Key accomplishment or responsibility
 - Another achievement with quantifiable results
 - Skills or technologies used
 
-#### Another Position - Company Name
-*Dates*
+#### Systems Analyst - Intermountain Packing
+*Jun '24 - Jul '24*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Restructured and standardized the communication of fabrication specs among departments, eliminating 80% of production
+errors and duplicate efforts, resulting in savings of $15-20k per week- Constructed a digital lever playbook integrating AI to capitalize on a $421 million opportunity in the Consumables SBU
+- Developed a simplified customer order system, saving 1 FTE - $75,000 per year in employment expenditure
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Programming languages (Python, SQL)
+- Analytics tools (Tableau, Power BI, Microsoft Excel)
 
 **Soft Skills**
 - Communication and presentation
@@ -56,7 +55,8 @@ Write a compelling narrative about your background, education, and what drives y
 - Strategic thinking and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+- Formula 1 racing
+- Brandon Sanderson
 
 ### What's Next
 
