@@ -32,29 +32,29 @@ Write a compelling narrative about your background, education, and what drives y
 #### Merchandising Intern - Walmart Inc.
 *Jun '25 - Aug '25*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Accelerated private brands digitally by analyzing cross-functional processes, channel performance, and customer needs
+- Constructed a digital lever playbook integrating AI to capitalize on a $421 million opportunity in the Consumables SBU
+- Participated in the AI digital charter focused on opportunities presented by AI and their implementation and training
 
 #### Systems Analyst - Intermountain Packing
 *Jun '24 - Jul '24*
 
 - Restructured and standardized the communication of fabrication specs among departments, eliminating 80% of production
-errors and duplicate efforts, resulting in savings of $15-20k per week- Constructed a digital lever playbook integrating AI to capitalize on a $421 million opportunity in the Consumables SBU
+errors and duplicate efforts, resulting in savings of $15-20k per week
 - Developed a simplified customer order system, saving 1 FTE - $75,000 per year in employment expenditure
 
 ### Skills & Interests
 
-**Technical Skills**
+**Technical Skills:**
 - Programming languages (Python, SQL)
 - Analytics tools (Tableau, Power BI, Microsoft Excel)
 
-**Soft Skills**
+**Soft Skills:**
 - Communication and presentation
 - Cross-functional collaboration
 - Strategic thinking and problem-solving
 
-**Interests**
+**Interests:**
 - Formula 1 racing
 - Brandon Sanderson
 
