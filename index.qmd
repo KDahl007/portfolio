@@ -21,7 +21,7 @@ title: "Welcome to My Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### Flappy
+### Flappy (projects/project-1.qmd)
 A take on the classic flappy bird game - my first ever application - deployed to vercel 
 
 :::
