@@ -8,7 +8,7 @@ categories: [GitHub, Vercel, Claude Code]
 
 This project involved using Claude Code to write the code to needed to deveop an app that provided a fun but challenging take on the classic flappy bird game. Developing this game taught me the power of AI coding tools and increased my confidence in my ability to use them with precision.
 
-The primary purpose of this app is to:
+###The primary purpose of this app is to:
 
 - challenge players to acheive a high score by skillfully navigating through an endless series of randomly generated obstacles.
 - provide a simple and challenging arcade expereience with responsive controls with a rewarding, score based progression system. 
