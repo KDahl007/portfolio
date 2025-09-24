@@ -19,13 +19,15 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I am a 6th generation rancher who loves his family and solving problems. Essentially, this is why I love business, analytics, and product management! At their core, each is centered around solving problems. My formal education has allowed me to apply my passion for problem solving and in a structured way and has enabled me to use new and powerful tool!
 
 ### Education
 
 - **Strategic Management BS**, Brigham Young University (2026)
-- **Relevant Coursework**: STRAT 402: Economics of Strategy | STRAT 411: Advanced Competitive Strategy | STRAT 412: Strategy Analytics | ECON 382: Intermediate Microeconomics | IS 515: Advanced Spreadsheets for Business Analysis | STRAT 490R: Creating Digital Products with AI - Strategy and Prototyping
-- **Academic Achievements**: Strategy Society - VP of Events
+- **Relevant Coursework**: 
+STRAT 402: Economics of Strategy | STRAT 411: Advanced Competitive Strategy | STRAT 412: Strategy Analytics | ECON 382: Intermediate Microeconomics | IS 515: Advanced Spreadsheets for Business Analysis | STRAT 490R: Creating Digital Products with AI - Strategy and Prototyping
+- **Academic Achievements**: 
+ACT 32 | Strategy Society - VP of Events
 
 ### Experience
 
@@ -46,18 +48,19 @@ errors and duplicate efforts, resulting in savings of $15-20k per week
 ### Skills & Interests
 
 **Technical Skills:**
-- Programming languages (Python, SQL)
-- Analytics tools (Tableau, Power BI, Microsoft Excel)
+- Programming languages (Python, SQL)  
+- Analytics tools (Tableau, Power BI, Microsoft Excel)  
+- AI tools (Claude Code, Notebook LM)
 
 **Soft Skills:**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Communication and presentation  
+- Cross-functional collaboration  
+- Strategic thinking and problem-solving  
 
 **Interests:**
-- Formula 1 racing
-- Brandon Sanderson
+- Formula 1 racing  
+- Brandon Sanderson  
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I veiw my career as one of the main ways I can contribute to the lives of those around me. I feel accountable for my work and for my personal improvement as I do that work. Ultimately, I aspire to be a capable administrator who others trust to make the right decision in every situation and who works to improve the world around him. 
