@@ -21,7 +21,7 @@ title: "Welcome to My Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Flappy] (https://kdahl007.github.io/portfolio/projects/project-1.html)
+### [Flappy](https://kdahl007.github.io/portfolio/projects/project-1.html)
 A take on the classic flappy bird game - deployed to vercel - my first ever application 
 
 :::
