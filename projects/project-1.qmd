@@ -50,7 +50,7 @@ This project involved using Claude Code to write the code to needed to deveop an
 
 ## Product Requirements Document
 
-1. Introduction
+**1. Introduction**
 
 1.1. Overview
 
@@ -60,7 +60,7 @@ This project involved using Claude Code to write the code to needed to deveop an
 
 The target audience includes casual gamers of all ages who enjoy simple, high-score-based arcade games.
 
-2. Product Goals
+**2. Product Goals**
 
 Goal 1: Create a fun and engaging single-player game with a clear and simple objective.
 
@@ -68,7 +68,7 @@ Goal 2: Implement a challenging gameplay loop that encourages repeat plays.
 
 Goal 3: Provide a seamless and responsive user experience on both desktop and mobile devices.
 
-3. Core Gameplay Loop
+**3. Core Gameplay Loop**
 
 3.1. Game State
 
@@ -114,7 +114,7 @@ The bottom of the game screen (ground).
 
 There is no ceiling
 
-4. User Interface (UI) and Experience (UX)
+**4. User Interface (UI) and Experience (UX)**
 
 4.1. Visuals
 
@@ -154,7 +154,7 @@ Game Over Sound Effect: A distinct "thud" or "crash" sound.
 
 Visual Effects: A subtle "squish" or "bounce" animation on the Bird for each jump.
 
-5. Technical Requirements
+**5. Technical Requirements**
 
 Platform: A single-page web application compatible with modern web browsers on desktop and mobile.
 
@@ -164,7 +164,7 @@ Rendering: All game visuals will be rendered using the HTML Canvas element for o
 
 Data Persistence: The high score will be stored persistently in a Firestore database to allow for multi-user functionality and leaderboards in future versions.
 
-6. Further Considerations
+**6. Further Considerations**
 
 Achievements: In-game achievements for reaching score milestones (e.g., "10 points," "50 points") and other specific actions (e.g., "First Game Played").
 
