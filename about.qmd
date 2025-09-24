@@ -25,8 +25,10 @@ I am a 6th generation rancher who loves his family and solving problems. Essenti
 
 - **Strategic Management BS**, Brigham Young University (2026)
 - **Relevant Coursework**: 
+
 STRAT 402: Economics of Strategy | STRAT 411: Advanced Competitive Strategy | STRAT 412: Strategy Analytics | ECON 382: Intermediate Microeconomics | IS 515: Advanced Spreadsheets for Business Analysis | STRAT 490R: Creating Digital Products with AI - Strategy and Prototyping
 - **Academic Achievements**: 
+
 ACT 32 | Strategy Society - VP of Events
 
 ### Experience
@@ -48,16 +50,19 @@ errors and duplicate efforts, resulting in savings of $15-20k per week
 ### Skills & Interests
 
 **Technical Skills:**
+
 - Programming languages (Python, SQL)  
 - Analytics tools (Tableau, Power BI, Microsoft Excel)  
 - AI tools (Claude Code, Notebook LM)
 
 **Soft Skills:**
+
 - Communication and presentation  
 - Cross-functional collaboration  
 - Strategic thinking and problem-solving  
 
 **Interests:**
+
 - Formula 1 racing  
 - Brandon Sanderson  
 
