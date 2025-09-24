@@ -6,12 +6,12 @@ categories: [GitHub, Vercel, Claude Code]
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that provided a fun but challenging take on the classic flappy bird game.
+This project involved using Claude Code to write the code to needed to deveop an app that provided a fun but challenging take on the classic flappy bird game. Developing this game taught me the power of AI coding tools and increased my confidence in my ability to use them with precision.
 
 The primary purpose of this app is to:
 
 - challenge players to acheive a high score by skillfully navigating through an endless series of randomly generated obstacles.
-- provide a simple way do experiment with AI generated code and refine its use cases and function. 
+- provide a simple and challenging arcade expereience with responsive controls with a rewarding, score based progression system. 
 
 ## Live Product Demo
 
@@ -46,19 +46,22 @@ Framework/Stack: HTML/CSS/JS
 
 Deployment: GitHub Pages + Vercel
 
-Tools Used:
--   Claude Code
+Tools Used: Claude Code
 
 ## Product Requirements Document
 
 1. Introduction
+
 1.1. Overview
+
 "Flappy" is a 2D side-scrolling mobile and web game. The primary objective is to navigate a character (the "Bird") through a series of obstacles, represented by vertical pipes, for as long as possible. The game is designed to be simple, challenging, and highly addictive.
 
 1.2. Target Audience
+
 The target audience includes casual gamers of all ages who enjoy simple, high-score-based arcade games.
 
 2. Product Goals
+
 Goal 1: Create a fun and engaging single-player game with a clear and simple objective.
 
 Goal 2: Implement a challenging gameplay loop that encourages repeat plays.
@@ -66,7 +69,9 @@ Goal 2: Implement a challenging gameplay loop that encourages repeat plays.
 Goal 3: Provide a seamless and responsive user experience on both desktop and mobile devices.
 
 3. Core Gameplay Loop
+
 3.1. Game State
+
 The game will have three primary states:
 
 Main Menu: Displays the game title, a "Start" button, and the user's high score.
@@ -76,6 +81,7 @@ In-Game: The active gameplay state where the user controls the Bird.
 Game Over: Displays the final score, the high score, and "Restart" and "Main Menu" buttons.
 
 3.2. Player Mechanics
+
 Character: A small, pixelated bird or similar flying character.
 
 Movement: The Bird will have a constant horizontal velocity of 5 units/frame, moving from left to right across the screen.
@@ -85,6 +91,7 @@ Gravity: The Bird will be subject to a constant downward acceleration of 1.5 uni
 Jump: A single tap or click on the screen will apply an upward velocity impulse of -20 units. This is the only player input.
 
 3.3. Obstacles (Pipes)
+
 Generation: Pipes will be generated in pairs (top and bottom) with a vertical gap between them.
 
 Movement: Pipes will move horizontally from right to left at a constant speed, synchronized with the Bird's forward movement.
@@ -92,11 +99,13 @@ Movement: Pipes will move horizontally from right to left at a constant speed, s
 Spacing: Pipes will be spaced 250 units apart horizontally. The vertical gap will be 150 units wide, and its vertical position will be randomized, ensuring the top and bottom pipes are at least 50 units from the screen boundaries.
 
 3.4. Scoring
+
 The player gains one point for each set of pipes they successfully pass through the gap.
 
 The score is displayed in the top-middle of the screen during gameplay.
 
 3.5. Collision Detection
+
 The game ends immediately if the Bird collides with any of the following:
 
 The top, bottom or side of a pipe.
@@ -106,12 +115,15 @@ The bottom of the game screen (ground).
 There is no ceiling
 
 4. User Interface (UI) and Experience (UX)
+
 4.1. Visuals
+
 Art Style: Simple, retro pixel art to evoke a nostalgic feel.
 
 Background: A scrolling background to provide a sense of continuous motion.
 
 4.2. Main Menu
+
 Title: "Flappy"
 
 High Score: Displays the user's top 5 all time high scores
@@ -121,16 +133,19 @@ Button: A large, easily tappable "Start" button.
 Username: A place to make a username that can be saved with the high scores
 
 4.3. In-Game UI
+
 Score: The current score is prominently displayed.
 
 Pause Functionality: A small pause button in a corner.
 
 4.4. Game Over Screen
+
 Score Display: Shows the score from the last game and the all-time high score.
 
 Buttons: "Restart" to begin a new game instantly and "Main Menu" to return to the home screen.
 
 4.5. Sound and Visuals
+
 Jump Sound Effect: A short, high-pitched "whoosh" or "boop" sound.
 
 Score Sound Effect: A positive, bell-like "ding" sound.
@@ -140,6 +155,7 @@ Game Over Sound Effect: A distinct "thud" or "crash" sound.
 Visual Effects: A subtle "squish" or "bounce" animation on the Bird for each jump.
 
 5. Technical Requirements
+
 Platform: A single-page web application compatible with modern web browsers on desktop and mobile.
 
 Technology Stack: HTML, CSS, and JavaScript.
@@ -149,6 +165,7 @@ Rendering: All game visuals will be rendered using the HTML Canvas element for o
 Data Persistence: The high score will be stored persistently in a Firestore database to allow for multi-user functionality and leaderboards in future versions.
 
 6. Further Considerations
+
 Achievements: In-game achievements for reaching score milestones (e.g., "10 points," "50 points") and other specific actions (e.g., "First Game Played").
 
 Leaderboards: A global leaderboard to compete with other players.
